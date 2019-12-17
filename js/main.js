@@ -58,43 +58,72 @@ html{
 
 var text2=`# 自我介绍
 
-我叫 黄秋平
+黄秋平
+----
+23岁，Java软件工程师，三年Java EE 从业经验，目前在北京工作。
+有良好的文档编写和代码书写规范，能独立解决问题、百折不挠、细节控
+<br/>
 
 
-# 技能介绍
+技能
+----
+* 后端开发
+* 聚合支付
+* 单点登录
+* 权限管理
+* 公众号/小程序开发
+* API接口开发
+* Linux
+* 开源爱好者
+* 博客系统
 
-熟悉 JavaScript CSS jQuery 等
+技术及语言
+----
+  - **Java**: SpringBoot、SpringCloud、SpringMVC、MyBatis、Shiro、Freemarker
+  - **前端**: VueJs、Bootstrap、LayUI、jQuery UI
+  - **数据库**: MySQL/MariaDB、SQLServer、Oracle、MongoDB、redis、memcached
+  - **web 服务器**: Nginx、Tomcat、Apache、Jetty
+  - **OS**: Linux、Windows
+  - **Others**: Git、Svn、Maven、XMind、Visio、IDEA
 
-# 项目介绍
+工作经历
+----
+1. [北京江融信科技有限公司](http://www.jiangrongxin.com/)
+2. [北京上玄科技有限公司](http://www.shangxuankeji.com/#home)
 
-1. 无缝 轮播
-2. 在线 简历
-3. Canvas 画板
 
-# 无缝 轮播
+开源项目
+----
+1. [基于SpringBoot + Semantic UI + JPA的个人博客](https://github.com/AYJCSGM/spring-boot-blog)
+2. [问卷调查系统](https://github.com/AYJCSGM/survey-system)
+3. [企业级博客](https://github.com/AYJCSGM/Enterprise-Blog)
+4. [客户管理系统](https://github.com/AYJCSGM/ClientManageSystem)
+5. [一个会动的简历](https://github.com/AYJCSGM/resume)
+6. [Maven-SSM的crud](https://github.com/AYJCSGM/MAVEN-SSM-CRUD)
+7. [AYJCSGM的技术博客网站](https://github.com/AYJCSGM/AYJCSGM.github.io)
 
-- 使用jQuery实现
-- 实现动态轮播，手动点击，进入停止等
-- 解决不在当前页面时，轮播停止Bug
+链接
+----
+* [技术博客](https://ayjcsgm.github.io/)
+* [GitHub](https://github.com/AYJCSGM)
+* [CSDN](https://blog.csdn.net/weixin_43664418)
+* [开发笔记](https://github.com/AYJCSGM/AYJCSGM.github.io)
 
-# 在线 简历
+[归档文章](https://ayjcsgm.github.io/)
+----
+1. [Java](https://ayjcsgm.github.io/tags/java/)
+2. [Linux](https://ayjcsgm.github.io/tags/Linux/)
+3. [Spring](https://ayjcsgm.github.io/tags/Spring)
+4. [MySQL](https://ayjcsgm.github.io/tags/SQL)
+5. [Hexo](https://ayjcsgm.github.io/tags/Hexo)
+6. [SSM](https://ayjcsgm.github.io/tags/SSM/)
 
-- 使用 Html Css JavaScript
-- 实现锚点定位，轮播，动态页面等效果
-- 实现留言板功能
+联系我
+----
+* 联系QQ：**1141341095** 
+* 主要涉及技术：**Java后端开发**、**聚合支付**、**公众号开发**、**开源爱好者**、**Linux**
 
-# Canvas 画板
-
-- 使用H5的新标签 canvas 实现画板功能
-- 过程：先成点，在成线。
-- 拥有更换画笔颜色，画笔粗细，橡皮擦，清屏，保存到本地等功能
-
-# 联系方式
-
-- QQ xxxxxxxx
-- Email xxxxxxxx
-- 手机 xxxxxxx
-
+> 如果你喜欢这个效果，Fork [我的项目](https://github.com/AYJCSGM/resume)，打造你自己的简历！
 `;
 
 var text3=`
