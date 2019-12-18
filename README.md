@@ -6,3 +6,5 @@
 预览 ➡️ https://ayjcsgm.github.io/resume/resume
 
 
+# 后续
+如果觉得还行，那就点个star吧。｡◕ᴗ◕｡
