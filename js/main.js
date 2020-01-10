@@ -89,7 +89,6 @@ var text2=`# 自我介绍
 工作经历
 ----
 1. [北京江融信科技有限公司](http://www.jiangrongxin.com/)
-2. [北京上玄科技有限公司](http://www.shangxuankeji.com/#home)
 
 
 开源项目
